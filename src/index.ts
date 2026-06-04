@@ -16,4 +16,4 @@ else {
 
     totalPorPersona = parseFloat(totalTexto) / parseInt(personasTexto);
     console.log(`Total por persona: $${totalPorPersona}`);
-}
+}   
